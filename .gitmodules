@@ -1,0 +1,3 @@
+[submodule "peter_test_sub1"]
+	path = peter_test_sub1
+	url = https://github.com/NGWPC/peter_test_sub1
